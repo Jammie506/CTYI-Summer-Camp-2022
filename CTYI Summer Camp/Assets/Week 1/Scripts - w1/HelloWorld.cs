@@ -31,13 +31,14 @@ public class HelloWorld : MonoBehaviour
     void Update()
     {
         //try changing this to introduce yourself to the class
-        intro.text = "My Name Is Jamie, I am 23 Years Old And I Am From Dublin";
+        intro.text = "Keyboard & Mouse Vs Controller >Keyboad, <Controller";
+
 
         //What about colour? What colour would you like our text to be?
         //Once you start typing your colour, for example "Blue" the computer
         //Should auto complete it for you!
 
-        intro.color = Color.green;
+        intro.color = Color.magenta;
 
         //We can get more specific with our colours but we cn look at that later
     }
